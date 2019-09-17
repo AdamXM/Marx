@@ -4,6 +4,7 @@ aaaaaaaaaaaaaaaaaa
 zoezoe
 edit by hot_fix
 conflict
+test checkout
 bbbbbbbbbbbbb
 cccccccccccc
 dddddd
