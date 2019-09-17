@@ -3,6 +3,7 @@ This is the original text. 2019.9.16
 aaaaaaaaaaaaaaaaaa
 zoezoe
 edit by hot_fix
+conflict
 bbbbbbbbbbbbb
 cccccccccccc
 dddddd
